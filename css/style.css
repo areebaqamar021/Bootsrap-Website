@@ -1,0 +1,221 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img, video, iframe{
+	max-width: 100%;
+}
+.logo{
+	padding-top: 40px;
+}
+.navbar{
+	padding-top: 15px;
+}
+.primary-color{
+	color: black;
+}
+.section{
+	padding: 100px 0px;
+}
+.section h1{
+	font-size: 3em;
+	/* padding-left: 300px; */
+	padding-bottom: 30px;
+	text-align: center;
+}
+.power{
+	padding: 50px 0px;
+	background-color: 	#FFF8DC;
+}
+.power p{
+	font-size: 1.5em;
+}
+.power-2{
+	background-color: 	#FFFAFA;
+	padding: 50px 0px;
+}
+.power-2 h1{
+	padding-top: 60px;
+}
+.power-2 p{
+	font-size: 1.5em;
+}
+.testimonial{
+	background:url(../images/testimonial.jpg) no-repeat fixed;
+	background-size: cover;
+	height: 500px; 
+}
+.testimonial .container{
+	text-align: center;
+	color: #fff;
+
+}
+.testimonial h2{
+	padding-top: 15%;
+	font-size: 5em;
+}
+.testimonial p{
+	font-size: 2em;
+}
+.shares{
+	padding: 100px 0px;
+	background-color: #FFFFF0;
+}
+.shares h2{
+	font-size: 2.5em;
+	padding-bottom:20px; 
+}
+.shares p{
+	font-size: 20px;
+}
+.blogs{
+	background-color: #F5F5DC;
+	padding: 80px 0px;
+}
+.blogs p{
+	font-size: 20px;
+}
+.blogs span{
+	color: #87CEFA;
+}
+.footer{
+	padding: 50px;
+	background-color: 	#DCDCDC;
+}
+.end{
+	background-color: #DCDCDC;
+}
+.slider{
+	background: url(../images/meeting2.jpg);
+	height: 450px; 
+	background-size: cover;
+	text-align: center; 
+}
+
+.slider h1{
+	padding-top: 100px;
+	color: #fff;
+	font-size: 3em;
+}
+.slider p{
+	color: #fff;
+	font-size: 1.5em;
+}
+.home{
+	padding: 80px 0px;
+}
+.home h1{
+	text-align: center;
+	font-size: 2em;
+	text-decoration: underline;
+	padding-left: 30px;
+}
+.home p{
+	font-size: 1.5em;
+}
+.home2{
+	padding: 50px 0px;
+	background-color: #F0FFF0;
+}
+.home2 h1{
+	padding-top: 80px;
+	font-size: 2em;
+}
+.home2 p{
+	font-size: 1.5em;
+}
+.slider2{
+	background: url(../images/slider-005.jpg);
+	 height: 450px;  
+	background-size: cover;
+	text-align: center; 
+}
+
+.slider2 h2{
+	padding: 150px 0px;
+	text-align: center;
+	color: #696969;
+	font-size: 3em;
+}
+.about{
+	padding: 100px 0px;
+}
+.about h2{
+	font-size: 2em;
+	text-decoration: underline;
+	padding-bottom: 20px;
+	padding-left: 30px;
+}
+.about p{
+	font-size: 1.5em;
+}
+.about2{
+	padding: 80px 0px;
+	background-color: 	#FFF5EE;
+}
+.slider3{
+	background: url(../images/business-slider-2.jpg);
+	 height: 450px;  
+	background-size: cover;
+	text-align: center; 
+}
+
+.slider3 h2{
+	padding-top: 150px;
+	text-align: center;
+	color: #000080;
+	font-size: 3em;
+}
+.slider3 p{
+	font-size: 1.5em;
+	color: #000080;
+}
+.anchor{
+	padding: 100px 0px;
+	text-align: center;
+}
+.anchor h4{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	color: 	#00BFFF;
+
+}
+.anchor p{
+	font-size: 20px;
+}
+.slider4{
+	background: url(../images/business.jpg);
+	 height: 450px;  
+	background-size: cover;
+	text-align: center; 
+}
+
+.slider4 h2{
+	padding-top: 150px;
+	text-align: center;
+	color: 	#483D8B;
+	font-size: 3em;
+}
+.slider4 p{
+	font-size: 1.5em;
+	color: 	#483D8B;
+}
+.gallery{
+	padding: 100px 0px;
+	text-align: center;
+	background-color: 	#F5F5F5;
+}
+.gallery h1{
+ 	text-decoration: underline;
+ 	padding-bottom: 30px;
+ 	padding-left: 30px;
+}
+.gallery h5{
+	font-size: 1.5em;
+}
+.gallery2{
+	padding: 50px 0px;
+}
+.gallery3{
+	padding: 100px 0px;
+}
