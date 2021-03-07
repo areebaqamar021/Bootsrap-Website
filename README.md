@@ -1,2 +1,2 @@
 # Bootsrap-Website
-https://areebaqamar021.github.io/Bootsrap-Website/
+https://bootstrap-templatte.netlify.app/
